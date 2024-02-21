@@ -1,0 +1,1 @@
+from .main import user_handler_register
